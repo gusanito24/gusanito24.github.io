@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            body{
+                background-color:rgb(10, 255, 59);
+            }
+            h1{
+                color:rgb(255, 255, 255);
+            }
+            #s{
+                background-color:red;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Viajes "Gus Gus"</h1>
+        <h2 id="s">Lugares exoticos de México </h2>
+        <ol>
+            <li> Las Barrancas del Cobre, Chihuahua</li>
+            <li>Las Pozas de Xilitla en San Luis Potosí</li>
+            <li>Huasteca Potosina en San Luis Potosí</li>
+            <li>Las Cascadas Agua Azul en Palenque, Chiapas</li>
+        </ol>
+        <ol>
+         <h2>¡VAMOS!</h2>
+       <li> Las Barrancas del Cobre, Chihuahua</li>
+      
+       <p>
+ Se ubican al suroeste de la ciudad de <em>Chihuahua</em>, en<strong> Chihuahua</strong>. Explora este maravilloso destino como todo un aventurero dispuesto a superar adversidades climáticas o platicar con los rarámuris, lugareños de esta majestuosa sierra.
+       </p>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Telef%C3%A9rico_Barrancas_Cobre.jpg/1280px-Telef%C3%A9rico_Barrancas_Cobre.jpg" alt="Barrancas de cobre"width="160">
+<li>Las Pozas de Xilitla en San Luis Potosí</li>
+<p>Xilitla fue el lugar que eligió <strong>el artista y excéntrico millonario <em>Edward James</em></strong> para construir un gran castillo surrealista durante los años 50. Entre cascadas, pozas y vegetación selvática creó curiosos edificios con puertas que llevan al vacío, escaleras que conducen al cielo, columnas que no sostienen nada y flores de concreto que crecen junto a las naturales.
+</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Xilitla_Las_Pozas_0407_104.jpg/225px-Xilitla_Las_Pozas_0407_104.jpg" alt="pozas"height="150">
+<li>Huasteca Potosina en San Luis Potosí</li>
+<p>La <strong>Huasteca Potosina</strong> es una región ubicada al noreste de la República Mexicana, en el estado de <em>San Luis Potosí</em>, y conformada por 20 municipios. </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tamasopo.jpg/220px-Tamasopo.jpg"alt="huasteca" widht="200">
+<li>Las Cascadas Agua Azul en Palenque, Chiapas</li>
+<p>El azul añil del agua, el verde de la vegetación, la brisa constante y el sonido acuático inagotable contribuyen a hacer de este lugar, <strong>situado a 133 km de San Cristóbal de las Casas</strong>, uno de los más espectaculares e inolvidables de México.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cataratas_de_Agua_Azul%2C_Mexico.JPG/245px-Cataratas_de_Agua_Azul%2C_Mexico.JPG" alt="cascadas" width="150">
+        
+        </ol>
+    </body>
+</html>
